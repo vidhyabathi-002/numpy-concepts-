@@ -43,3 +43,9 @@ there are the two keywords which are  helping the user to make the complete  pro
 > **1.import**
 >
 > **2.from**
+
+
+
+### USE OF IMPORT:
+
+Its a keyword which is used the grab the functionality  of one file
