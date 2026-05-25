@@ -48,4 +48,8 @@ there are the two keywords which are  helping the user to make the complete  pro
 
 ### USE OF IMPORT:
 
-Its a keyword which is used the grab the functionality  of one file
+Its a keyword which is used the grab the functionality  of one file  to another file 
+
+### USE OF FROM :
+
+Its  a keyword  which is used to  make the controller  to get  pointed  to required positions
