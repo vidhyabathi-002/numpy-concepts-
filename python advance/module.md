@@ -22,7 +22,7 @@ WHAT IS PACKAGE ?
 
 # PACKAGE  ARCHITECTURE:
 
-its a process of defining  asingle project  into multiple number of  package its aprocess of dividing a single project into multiple number of 
+its a process of defining  asingle project  into multiple number of  package its aprocess of dividing a single project into multiple number of
 
 ## TWO TYPES OF MODULES IN PYTHON :
 
@@ -31,24 +31,21 @@ its a process of defining  asingle project  into multiple number of  package its
 
 ### BUILD IN MODULE:
 
-its a file which is already craeted  by developers asd a user only we can  import the module , use thye attributes of the modules  but we can't change the actual personality  of that module
-
+its a file which is already created  by developers asd a user only we can  import the module , use the attributes of the modules  but we can't change the actual personality  of that module
 
 ### USER DEFINED MODULES:
 
-the modules which are created  as the user requirment  
+the modules which are created  as the user requirment
 
-there are the two keywords which are  helping the user to make the complete  project package  arechitecture 
+there are the two keywords which are  helping the user to make the complete  project package  architecture
 
 > **1.import**
 >
 > **2.from**
 
-
-
 ### USE OF IMPORT:
 
-Its a keyword which is used the grab the functionality  of one file  to another file 
+Its a keyword which is used the grab the functionality  of one file  to another file
 
 ### USE OF FROM :
 

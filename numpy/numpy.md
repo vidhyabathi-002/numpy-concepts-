@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # NUMPY CONCEPTS :
 
 # indexing :
@@ -63,25 +64,17 @@ arr4[:,1:2,1:4:2
 
 ```
 
-
-
-
-
 # MATH OPERATIONS  IN  NUMPY:
 
->     there are three types of operation we can perform an array:
+> there are three types of operation we can perform an array:
 
 1. inbuild functions
 2. array to array operation
 3. array with constent operation
 
-
-
-
-
 ### **2[i] .inbuild  operations  of an array:**
 
-used to perform the mathamatical operations like 
+used to perform the mathamatical operations like
 
 1. max():
    max  will help user to find the maximum value from the array
@@ -100,7 +93,8 @@ used to perform the mathamatical operations like
 8. variance()
 9. std()
 10. sum,()
-=======
+    ======
+
 # NUMPY CONCEPTS :
 
 # indexing :
@@ -165,25 +159,17 @@ arr4[:,1:2,1:4:2
 
 ```
 
-
-
-
-
 # MATH OPERATIONS  IN  NUMPY:
 
->     there are three types of operation we can perform an array:
+> there are three types of operation we can perform an array:
 
 1. inbuild functions
 2. array to array operation
 3. array with constent operation
 
-
-
-
-
 ### **2[i] .inbuild  operations  of an array:**
 
-used to perform the mathamatical operations like 
+used to perform the mathamatical operations like
 
 1. max():
    max  will help user to find the maximum value from the array
@@ -202,4 +188,71 @@ used to perform the mathamatical operations like
 8. variance()
 9. std()
 10. sum,()
->>>>>>> f384663b822d5c52dcf0e9c87b8287ec8b4412f9
+
+# 2[1[i]] Variance:
+
+    in numpy`.var `its used to calculate the variance of array elements
+
+##### SYNTAX:
+
+```
+import numpy as np
+
+var = np.var(health_data)
+print(var)
+```
+
+VARIANCE MESURES:
+
+the spread  of data by calculating  the average of the squred value from the mean
+
+### 1.Find the mean:
+
+(80+85+90+95+100+105+110+115+120+125) / 10 = 102.5
+
+The mean is 102.5
+
+### 2. Find the difference from the mean for each value:
+
+80 - 102.5 = -22.5
+85 - 102.5 = -17.5
+90 - 102.5 = -12.5
+95 - 102.5 = -7.5
+100 - 102.5 = -2.5
+105 - 102.5 = 2.5
+110 - 102.5 = 7.5
+115 - 102.5 = 12.5
+120 - 102.5 = 17.5
+125 - 102.5 = 22.5
+
+
+### 3.Find the square value for each difference:
+
+(-22.5)^2 = 506.25
+(-17.5)^2 = 306.25
+(-12.5)^2 = 156.25
+(-7.5)^2 = 56.25
+(-2.5)^2 = 6.25
+2.5^2 = 6.25
+7.5^2 = 56.25
+12.5^2 = 156.25
+17.5^2 = 306.25
+22.5^2 = 506.25
+
+**Note:** We must square the values to get the total spread.
+
+### Step 4: The Variance is the Average Number of These Squared Values
+
+4. Sum the squared values and find the average:
+
+(506.25 + 306.25 + 156.25 + 56.25 + 6.25 + 6.25 + 56.25 + 156.25 + 306.25 + 506.25) / 10 = 206.25
+
+The variance is 206.25.
+
+
+# 2[1[ii]] STANDED DEVATION:
+
+* IN  numpy two calculate  standed devation we have to  use std()
+* squre root of variance
+* avg distance from the data points  ,
+* `std = squre root (variance ) `
