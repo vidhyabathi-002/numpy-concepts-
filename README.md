@@ -17,5 +17,3 @@
  ௸ஊ
  ஊஐனடபூஎபிEDBVEJD
  WFNANFJ
-
- frh
