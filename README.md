@@ -38,8 +38,6 @@ pythoon interning
 
 monky patch
 =======
- dyh ed
- e
 
  
  
