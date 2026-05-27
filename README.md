@@ -43,12 +43,7 @@ monky patch
  ew
  d
  e
- ad
- a 
- ஒஉ
 
-
- 
  
  
  
