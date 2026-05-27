@@ -1,4 +1,5 @@
 ﻿# numpy-concepts-
+<<<<<<< HEAD
 
 
 
@@ -36,3 +37,19 @@ magic methods
 pythoon interning 
 
 monky patch
+=======
+ dyh ed
+ ed
+ ew
+ d
+ e
+ ad
+ a 
+ ஒஉ
+
+
+ 
+ 
+ 
+ 
+>>>>>>> 4defe28ac9aae5384f7c98beaa5cec8f096db2df
