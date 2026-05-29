@@ -838,3 +838,16 @@ to modified the data inside of the list we need to follow same notations  like l
 **SYNTAX:**
 
 **`VAR["INDEX"]="NEW VALUES STR  " OR INTEGER `**
+
+# DATA FRAME  IN PANDAS:
+
+A DataFrame is a table. It contains an array of individual entries, 
+each of which has a certain value. Each entry corresponds to a row (or record) and a column
+
+
+**USES OF DATA FRAME :**
+
+1. preprocessing of data
+2. data cleaning
+3. data modifications
+4. data filtering
